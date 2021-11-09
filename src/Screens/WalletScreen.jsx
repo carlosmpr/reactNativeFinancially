@@ -11,7 +11,7 @@ import {
 import CreditCard from "../components/CreditCard";
 const windowWidth = Dimensions.get("window").width;
 const windowHeight = Dimensions.get("window").height;
-
+//
 const data = [
   { amount: "7,065.00", name: "Jhon Doe", exp: "07/26", fourDigit: "7281" },
   {
